@@ -1,0 +1,447 @@
+{
+    "Name": "Charlie The Cleaner",
+    "Character_Level": 5,
+    "Proficiency_Bonus": 3,
+    "HP": {
+        "MAX": 30,
+        "BONUS": 0,
+        "TMP": 0
+    },
+    "AC_NoArmor": 11,
+    "AC_MageArmor": 14,
+    "AC_Shield": 1,
+    "Spellcasting_Ability": [
+        "CHA"
+    ],
+    "Spell_Save_DC": [
+        13
+    ],
+    "Spell_Attack_Bonus": [
+        5
+    ],
+    "initiative_Bonus": 0,
+    "Basic_Ability_Scores": {
+        "STR": 6,
+        "DEX": 12,
+        "CON": 9,
+        "INT": 8,
+        "WIS": 8,
+        "CHA": 12
+    },
+    "Race_Ability_Score_Bonus": {
+        "STR": 0,
+        "DEX": 0,
+        "CON": 1,
+        "INT": 0,
+        "WIS": 0,
+        "CHA": 2
+    },
+    "Ability_Score_Improvement": {
+        "STR": 0,
+        "DEX": 0,
+        "CON": 0,
+        "INT": 0,
+        "WIS": 0,
+        "CHA": 0
+    },
+    "Final_Ability_Scores": {
+        "STR": 6,
+        "DEX": 12,
+        "CON": 10,
+        "INT": 8,
+        "WIS": 8,
+        "CHA": 14
+    },
+    "Ability_Score_Modifiers_additional_Bonus": {
+        "STR": 0,
+        "DEX": 0,
+        "CON": 0,
+        "INT": 0,
+        "WIS": 0,
+        "CHA": 0
+    },
+    "Ability_Score_Modifiers": {
+        "STR": -2,
+        "DEX": 1,
+        "CON": 0,
+        "INT": -1,
+        "WIS": -1,
+        "CHA": 2
+    },
+    "Passive_Perception_bonus": 0,
+    "Skills": {
+        "Acrobatics": [
+            0,
+            "DEX",
+            1,
+            0
+        ],
+        "Animal_Handling": [
+            0,
+            "WIS",
+            -1,
+            0
+        ],
+        "Arcana": [
+            1,
+            "INT",
+            2,
+            0
+        ],
+        "Athletics": [
+            0,
+            "STR",
+            -2,
+            0
+        ],
+        "Deception": [
+            1,
+            "CHA",
+            5,
+            0
+        ],
+        "History": [
+            0,
+            "INT",
+            -1,
+            0
+        ],
+        "Insight": [
+            0,
+            "WIS",
+            -1,
+            0
+        ],
+        "Intimidation": [
+            0,
+            "CHA",
+            2,
+            0
+        ],
+        "Investigation": [
+            0,
+            "INT",
+            -1,
+            0
+        ],
+        "Medicine": [
+            0,
+            "WIS",
+            -1,
+            0
+        ],
+        "Nature": [
+            0,
+            "INT",
+            -1,
+            0
+        ],
+        "Perception": [
+            0,
+            "WIS",
+            -1,
+            0
+        ],
+        "Performance": [
+            0,
+            "CHA",
+            2,
+            0
+        ],
+        "Persuasion": [
+            0,
+            "CHA",
+            2,
+            0
+        ],
+        "Religion": [
+            0,
+            "INT",
+            -1,
+            0
+        ],
+        "Sleight_of_Hand": [
+            1,
+            "DEX",
+            4,
+            0
+        ],
+        "Stealth": [
+            1,
+            "DEX",
+            5,
+            1
+        ],
+        "Survival": [
+            0,
+            "WIS",
+            -1,
+            0
+        ]
+    },
+    "Saving_Throws": {
+        "STR": [
+            0,
+            -2,
+            0
+        ],
+        "DEX": [
+            0,
+            1,
+            0
+        ],
+        "CON": [
+            1,
+            3,
+            0
+        ],
+        "INT": [
+            0,
+            -1,
+            0
+        ],
+        "WIS": [
+            0,
+            -1,
+            0
+        ],
+        "CHA": [
+            1,
+            5,
+            0
+        ]
+    },
+    "Exhaustion": [
+        [
+            0,
+            "dis on AS"
+        ],
+        [
+            0,
+            "speed halved"
+        ],
+        [
+            0,
+            "dis on ATK & Saves"
+        ],
+        [
+            0,
+            "HP max halved"
+        ],
+        [
+            0,
+            "speed is 0"
+        ],
+        [
+            0,
+            "death"
+        ]
+    ],
+    "Spell_Slots": {
+        "1x1": [
+            0,
+            0
+        ],
+        "1x2": [
+            1,
+            0
+        ],
+        "1x3": [
+            1,
+            0
+        ],
+        "1x4": [
+            1,
+            0
+        ],
+        "2x1": [
+            0,
+            0
+        ],
+        "2x2": [
+            0,
+            0
+        ],
+        "2x3": [
+            0,
+            0
+        ],
+        "3x1": [
+            0,
+            0
+        ],
+        "3x2": [
+            0,
+            0
+        ],
+        "3x3": [
+            0,
+            1
+        ],
+        "4x1": [
+            0,
+            1
+        ],
+        "4x2": [
+            0,
+            1
+        ],
+        "4x3": [
+            0,
+            1
+        ],
+        "5x1": [
+            0,
+            1
+        ],
+        "5x2": [
+            0,
+            1
+        ],
+        "5x3": [
+            0,
+            1
+        ],
+        "6x1": [
+            0,
+            1
+        ],
+        "6x2": [
+            0,
+            1
+        ],
+        "7x1": [
+            0,
+            1
+        ],
+        "7x2": [
+            0,
+            1
+        ],
+        "8x1": [
+            0,
+            1
+        ],
+        "9x1": [
+            0,
+            1
+        ]
+    },
+    "Death_Save": {
+        "Lx1": 0,
+        "Lx2": 0,
+        "Lx3": 0,
+        "Dx1": 0,
+        "Dx2": 0,
+        "Dx3": 0
+    },
+    "Sorcerer_Points (or Ki)": {
+        "Sx1": [
+            0,
+            0
+        ],
+        "Sx2": [
+            0,
+            0
+        ],
+        "Sx3": [
+            0,
+            0
+        ],
+        "Sx4": [
+            0,
+            0
+        ],
+        "Sx5": [
+            1,
+            0
+        ],
+        "Sx6": [
+            0,
+            1
+        ],
+        "Sx7": [
+            0,
+            1
+        ],
+        "Sx8": [
+            0,
+            1
+        ],
+        "Sx9": [
+            0,
+            1
+        ],
+        "Sx10": [
+            0,
+            1
+        ],
+        "Sx11": [
+            0,
+            1
+        ],
+        "Sx12": [
+            0,
+            1
+        ],
+        "Sx13": [
+            0,
+            1
+        ],
+        "Sx14": [
+            0,
+            1
+        ],
+        "Sx15": [
+            0,
+            1
+        ],
+        "Sx16": [
+            0,
+            1
+        ],
+        "Sx17": [
+            0,
+            1
+        ],
+        "Sx18": [
+            0,
+            1
+        ],
+        "Sx19": [
+            0,
+            1
+        ],
+        "Sx20": [
+            0,
+            1
+        ]
+    },
+    "Other_Proficiencies": "LANG: Common, Halfling\nTOOLS: Disquise Kit, Thieves Tolls\nWEAPONS: Dagger, Dart, Sling,\n            Quarterstaf/Brooms, Light Crosbow",
+    "Race_Traits": "SPEED: 25ft\nLUCKY: When rolled 1 on d20 (ATK, Ability,\n            Saving throw) can reroll and take new roll\nBRAVE: advantage on saving throw against Fright\nHALFLING NIMBLENESS: Can move through any\n             creature that is of size larger than me\nNATURALY STEALTHY: Can hide behind larger creatures",
+    "Class_Abilities": "FLEXIBLE CASTING:\n            SP to SL (1 SL = 2 SP, 2 SL = 3 SP)\n            SL to SP (1 SL = 1 SP, 2 SL = 2 SP)\nEYES OF THE DARK:\n            darkvision 120 ft + darkness spell\n            (can cast via SL or 2 SP)\n            if casted with SP, you can si in darkness\nSTRENGTH OF THE GRAVE: if dmg to 0 HP,\n            DC 5+dmg on Success you are UP with 1 HP,\n            does not work if dmg is radiant or critical 1x/L.rest",
+    "Class_Abilities2": {
+        "STRENGTH_OF_THE_GRAVE": [
+            0,
+            0
+        ]
+    },
+    "Feats": "TOUGH: +2 to Constitution",
+    "Background": "URCHIN: Feature: City Secrets\n            secret patterns and flow to cities.\n            if not in combat can travel between two locations\n            at twice of speed. can find passages",
+    "Metamagic": "SUBTLE SPELL: 1 SP\nTWINNED SPELL: ? SP = ? SL (1 SP cantrip)",
+    "Info_Text": "disguise kit, thieves tools, dagger, broom, travelers clothes, cloack, travelers pack,\n\n154 rokov\n\n4/4 hit dice\nadv inspiration \n\nOsobnost: prisny na cistotu,\nBond: Moja zlatokopka, Cistiace imperium\nFlaw: cistota nadovsetko, randomne cisti spinu aj uprostred dungeonu\nIdeas: zomriet v pokoji a kruhu rodiny\n\n1. lingering: smrdim ako mrtvola, dis na charisma  persuation check,\n2. lingering: flaky a skrabance / flaky na tvari, nevyliecitelne\n\nmoonlit Tiara +1 armor when on moonlight\nsilent amulet +1 bonus to stealth\nopasok s 4x drahokam, kazdy lieci 1d4 a kazde rano sa obnovia\n\n\n\naaa test",
+    "Attunments": {
+        "Ax1": [
+            1,
+            "moonlit Tiara"
+        ],
+        "Ax2": [
+            1,
+            "silent amulet"
+        ],
+        "Ax3": [
+            1,
+            "opasok"
+        ]
+    }
+}
